@@ -13,7 +13,7 @@ export const PERSONAL_INFO = {
   branch: 'Computer Science and Engineering (Core)',
   location: 'Andhra Pradesh, India',
   email: 'shivansh07adi@gmail.com',
-  github: 'https://github.com/shivansh07adi-cloud',
+  github: 'https://github.com/shivansh-kumar-adi',
   linkedin: 'https://www.linkedin.com/in/shivansh-kumar-adi',
   instagram: 'https://instagram.com/triples.2008',
   instagramUser: 'triples.2008',
