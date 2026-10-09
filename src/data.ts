@@ -378,8 +378,8 @@ export const PROJECTS_DATA = {
       tags: ['Node.js', 'Redis', 'PostgreSQL', 'BullMQ', 'Next.js', 'Systems Design'],
       sleepLost: '🌙🌙🌙🌙🌙',
       iceCreamConsumed: '🍦🍦🍦🍦🍦',
-      github: 'https://github.com/shivansh07adi-cloud/queuelock-backend',
-      githubFrontend: 'https://github.com/shivansh07adi-cloud/queuelock-frontend',
+      github: 'https://github.com/shivansh-kumar-adi/queuelock-backend',
+      githubFrontend: 'https://github.com/shivansh-kumar-adi/queuelock-frontend',
       live: 'https://queuelock-frontend.vercel.app/'
     },
     {
@@ -391,7 +391,7 @@ export const PROJECTS_DATA = {
       tags: ['Node.js', 'JavaScript', 'Automation', 'REST APIs', 'Systems Design'],
       sleepLost: '🌙🌙🌙',
       iceCreamConsumed: '🍦🍦🍦',
-      github: 'https://github.com/shivansh07adi-cloud/Sendura-Cold-Outreach-Automation-Engine'
+      github: 'https://github.com/shivansh-kumar-adi/Sendura-Cold-Outreach-Automation-Engine'
     },
     {
       id: 'proj-prospekt',
@@ -402,7 +402,7 @@ export const PROJECTS_DATA = {
       tags: ['Node.js', 'REST APIs', 'BullMQ', 'Automation', 'Systems Design'],
       sleepLost: '🌙🌙🌙',
       iceCreamConsumed: '🍦🍦🍦',
-      github: 'https://github.com/shivansh07adi-cloud/Prospekt---Lead-Enrichment-pipeline--'
+      github: 'https://github.com/shivansh-kumar-adi/Prospekt---Lead-Enrichment-pipeline--'
     },
     {
       id: 'proj-tracenut',
@@ -413,7 +413,7 @@ export const PROJECTS_DATA = {
       tags: ['React.js', 'Vite', 'JavaScript', 'Barcode Scanning', 'Systems Design'],
       sleepLost: '🌙🌙🌙',
       iceCreamConsumed: '🍦🍦🍦',
-      github: 'https://github.com/shivansh07adi-cloud/tracenut---frontend',
+      github: 'https://github.com/shivansh-kumar-adi/tracenut---frontend',
       live: 'https://tracenut-frontend.vercel.app/'
     },
     {
@@ -437,7 +437,7 @@ export const PROJECTS_DATA = {
       sleepLost: '🌙🌙',
       iceCreamConsumed: '🍦🍦',
       live: 'https://referral-portel-for-companies-and-e.vercel.app/',
-      github: 'https://github.com/shivansh07adi-cloud/Referral-Portel-for-companies-and-employees'
+      github: 'https://github.com/shivansh-kumar-adi/Referral-Portel-for-companies-and-employees'
     },
     {
       id: 'proj-image-enhancement',
@@ -448,7 +448,7 @@ export const PROJECTS_DATA = {
       tags: ['Python', 'OpenCV', 'Streamlit', 'NumPy', 'Pillow'],
       sleepLost: '🌙🌙',
       iceCreamConsumed: '🍦🍦',
-      github: 'https://github.com/shivansh07adi-cloud/Image-enhancement-and-preprocessing',
+      github: 'https://github.com/shivansh-kumar-adi/Image-enhancement-and-preprocessing',
       live: 'https://image-enhancement-and-preprocessing-bwjmr2nxumbxsdfpmaoqye.streamlit.app/'
     },
     {
@@ -460,7 +460,7 @@ export const PROJECTS_DATA = {
       tags: ['Gemini API', 'Frontend', 'REST APIs'],
       sleepLost: '🌙🌙🌙',
       iceCreamConsumed: '🍦🍦🍦',
-      github: 'https://github.com/shivansh07adi-cloud/HackJudgeAI',
+      github: 'https://github.com/shivansh-kumar-adi/HackJudgeAI',
       live: 'https://hack-judge-ai.vercel.app/'
     },
     {
@@ -472,7 +472,7 @@ export const PROJECTS_DATA = {
       tags: ['Python', 'OpenCV', 'MediaPipe', 'NumPy', 'Computer Vision'],
       sleepLost: '🌙🌙🌙',
       iceCreamConsumed: '🍦🍦🍦',
-      github: 'https://github.com/shivansh07adi-cloud/Hand-gesture-project-python'
+      github: 'https://github.com/shivansh-kumar-adi/Hand-gesture-project-python'
     },
     {
       id: 'proj-golden-hour',
@@ -481,7 +481,7 @@ export const PROJECTS_DATA = {
       title: 'Golden Hour — Daily Schedule Maker',
       desc: 'A cinematic personal schedule, task and habit dashboard. No signup, no login. A private share code is your key, like a Google Drive link.',
       tags: ['TypeScript', 'Dashboard', 'Habit Tracker'],
-      github: 'https://github.com/shivansh07adi-cloud/Golden-Hour---Your-daily-schedule-maker',
+      github: 'https://github.com/shivansh-kumar-adi/Golden-Hour---Your-daily-schedule-maker',
       live: 'https://golden-hour-mckrmzhxb-shivansh07adi-clouds-projects.vercel.app/'
     },
     {
@@ -491,7 +491,7 @@ export const PROJECTS_DATA = {
       title: 'Banks ETL Pipeline',
       desc: "ETL pipeline: scrapes the world's largest banks, converts market cap to GBP, EUR and INR, loads to CSV and SQLite. Validated, logged, 75 tests.",
       tags: ['Python', 'ETL', 'SQLite', 'MIT'],
-      github: 'https://github.com/shivansh07adi-cloud/banks-etl-pipeline'
+      github: 'https://github.com/shivansh-kumar-adi/banks-etl-pipeline'
     },
     {
       id: 'proj-emotion-detector',
@@ -500,7 +500,7 @@ export const PROJECTS_DATA = {
       title: 'Emotion Detector AI — From Scratch',
       desc: 'Emotion detector trained from scratch with NumPy (TF-IDF + softmax regression). No APIs, no pretrained models. Flask app on Vercel. 84.75% accuracy on unseen tweets.',
       tags: ['Python', 'NumPy', 'Flask', 'Apache 2.0'],
-      github: 'https://github.com/shivansh07adi-cloud/Emotion-Detector-AI----From-scratch',
+      github: 'https://github.com/shivansh-kumar-adi/Emotion-Detector-AI----From-scratch',
       live: 'https://emotion-detector-ai-from-scratch.vercel.app/'
     }
   ]
