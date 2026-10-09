@@ -102,7 +102,7 @@ export default function Contact({ onMessageLogged, onOpenDrawer }: ContactProps)
 
   const rows = [
     { title: 'LinkedIn', value: 'shivansh-kumar-adi', href: PERSONAL_INFO.linkedin, Icon: Linkedin },
-    { title: 'GitHub', value: 'shivansh07adi-cloud', href: PERSONAL_INFO.github, Icon: Github },
+    { title: 'GitHub', value: 'shivansh-kumar-adi', href: PERSONAL_INFO.github, Icon: Github },
     { title: 'Instagram', value: '@triples.2008', href: PERSONAL_INFO.instagram, Icon: Instagram },
     { title: 'X (Twitter)', value: '@shivanshXsuvii', href: PERSONAL_INFO.twitter, Icon: XIcon },
     { title: 'Blog', value: 'blog.shivanshonline.in', href: PERSONAL_INFO.blog, Icon: BookOpen },
