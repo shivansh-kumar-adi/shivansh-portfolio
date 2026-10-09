@@ -191,7 +191,7 @@ export default function Projects() {
       {/* Bottom Profile GitHub Badge */}
       <div className="mt-14 text-center">
         <a
-          href="https://github.com/shivansh07adi-cloud"
+          href="https://github.com/shivansh-kumar-adi"
           target="_blank"
           rel="noreferrer"
           className="btn-wipe btn-wipe-outline btn-wipe-sm"
